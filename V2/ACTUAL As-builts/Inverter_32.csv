@@ -1,4 +1,11 @@
-OBJECTID,Inverter,Row,Table_,UPN,Drive_Time_MIN,Drive_Time_SEC,As_Built_Northing,Design_Northing,Top_of_P_in_Northing_Tolerance,As_Built_Easting,Design_Easting,Easting_In_Tolerance,As_Built_Top_Elev,Design_Elevation,Pile_Length,As_Built_Reveal_ft,Design_Min_Reveal_ft,Design_Max_Reveal_ft,Reveal_in_Spec,As_Built_Embed,Design_Min_Embed,Min_Embd_Met,Pile_Twist,Twist_in_Tol,East_deg_Lean,North_Deg_Lean,Remediation_Complete,Remediation_Type,N_Dy,E_Dx,Elv_Dz,GlobalID,CreationDate,Creator,EditDate,Editor,Letter,Color,Damper,Pile_Type,Table_Ready_for_Racking,Symbology,Tracker_Slope_Deg,Cumulative_Slope,Pile_Installed,Elevation_In_Tolerance,East_Deg_Lean_In_Spec,North_Deg_Lean_in_Spec,Remediation_Approved,Pull_Test_Passed,Is_Pull_Test_Needed,Remediation_Performed,Random_Pull_Test,Cumulative_Tracker_Slope_in_Spe,Date_Installed,Date_of_Pull_Test,Date_of_Random_Pull_Test,Date_Remediation_Completed,Date_Remediation_Approved,Display,Drive_Finished_At,Drive_Machine,Hammering_Status,Hammering_Flag,Design_Bottom_of_Pile,Remediation_Reccomendation,Symbology_S02,UFN,Num_Helicals_In_Frame,Helical_Oreintation,Helical_PIle_Position,Frame_Des_Northing,Frame_Des_Easting,Frame_Des_Elv,Helical_or_W_Section,Helical_Clocking,Pile_Size,Pile_Shape,Phots_Needed,Symbology_3
-47209,32,0,0,500099,,,364499.541,364499.568,Yes,2257078.736,2257078.565,No,885.862,885.9159,17.5,885.862,,3.5,No,-868.362,14.0,No,-2.41,Yes,90.8467688161359,89.9807538539656,,,0.3240000000223517,-2.0520000010728836,,{1e34f055-0088-4a55-b45e-40edaed3cfe4},2025-12-16 16:14:51,HNemerov_westwood,2026-02-24 16:18:42,sauron.sanchez,,,,INVERTER PILE,,3.0,,,Yes,Yes,Yes,Yes,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,0
-47215,32,0,0,500105,,,364503.454,364503.182,No,2257084.024,2257083.815,No,888.668,885.9159,17.5,888.668,,3.5,No,-871.168,14.0,No,-0.83,Yes,94.2164099814805,94.6401457732249,,,-3.2640000006649643,-2.5080000031739473,,{b2f5a4fc-e8e5-4fa5-8660-a3f78451a2c6},2025-12-16 16:14:51,HNemerov_westwood,2026-02-24 16:18:42,sauron.sanchez,,,,INVERTER PILE,,3.0,,,Yes,Yes,No,No,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,0
-47216,32,0,0,500106,,,364503.036,364503.182,Yes,2257078.547,2257078.565,Yes,888.754,885.9159,17.5,888.754,,3.5,No,-871.254,14.0,No,-0.92,Yes,89.3088396951826,89.8010207580684,,,1.751999999396503,0.2160000018775463,,{084a0afa-fb9f-4551-90d5-860f174a4e8a},2025-12-16 16:14:51,HNemerov_westwood,2026-02-24 16:18:42,sauron.sanchez,,,,INVERTER PILE,,3.0,,,Yes,Yes,Yes,Yes,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,0
+UPN,As_Built_Northing,As_Built_Easting,As_Built_Top_Elev
+500098,364499.52,2257073.145,885.813
+500099,364499.541,2257078.736,885.862
+500100,364499.548,2257083.71,885.836
+500101,364499.553,2257091.214,885.851
+500102,364499.56,2257097.254,885.815
+500103,364503.21,2257097.274,885.874
+500104,364503.227,2257091.258,885.869
+500105,364503.2,2257083.809,885.166
+500106,364503.06,2257078.602,885.89
+500108,364503.22,2257073.29,885.922
